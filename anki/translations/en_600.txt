@@ -1,0 +1,600 @@
+600|hurry, haste
+601|urgent ("es eilig haben" = be in a hurry)
+602|a, one
+603|one-way street
+604|to break in
+605|burglar
+606|burglary
+607|clear, unambiguous
+608|impression
+609|on the one hand
+610|simple, easy; single (ticket); just
+611|driveway, entrance (for vehicles)
+612|to occur to (someone)
+613|idea
+614|influence
+615|to influence
+616|to insert, paste
+617|to introduce; to import
+618|introduction
+619|entrance
+620|uniform, standard
+621|some, several
+622|to agree, come to an agreement
+623|to shop, go shopping
+624|purchase, shopping
+625|income
+626|to invite
+627|invitation
+628|once
+629|to take (medicine)
+630|takings, income
+631|to pack
+632|to furnish; to set up
+633|furnishings; institution
+634|lonely
+635|to switch on
+636|including
+637|registered letter
+638|to appoint; to use, deploy
+639|to get in, board
+640|to employ, hire; to adjust
+641|to enter, write down
+642|to join; to enter
+643|admission, entry
+644|agreed, in agreement
+645|inhabitant, resident
+646|to pay in, deposit
+647|deposit, payment
+648|individual(ly), separate(ly)
+649|single- (prefix)
+650|detail
+651|only, sole
+652|to move in
+653|ice
+654|ice cream
+655|railway
+656|elegant
+657|electric
+658|electro- (prefix)
+659|electronic
+660|parents
+661|to receive
+662|reception; receipt
+663|recipient
+664|to recommend
+665|recommendation
+666|to end
+667|end
+668|final(ly), definitive(ly)
+669|finally, at last
+670|energy
+671|tight, narrow
+672|grandchild
+673|to discover
+674|to remove
+675|distance
+676|to come towards
+677|to contain
+678|along
+679|to discharge, dismiss
+680|dismissal; discharge
+681|to decide
+682|decision
+683|undecided; a draw (sports)
+684|to decide, make up one's mind
+685|determined
+686|to excuse; (sich) to apologise
+687|apology; excuse me
+688|to dispose of
+689|relaxing
+690|to arise, come into being
+691|to disappoint
+692|disappointment
+693|either ... or
+694|to develop
+695|development
+696|earth, soil
+697|potato (A)
+698|ground floor
+699|X
+700|event
+701|to happen, occur
+702|to find out, learn
+703|experience
+704|to invent
+705|invention
+706|success
+707|successful
+708|necessary, required
+709|to require
+710|to fulfil
+711|to complete, add
+712|result
+713|to receive
+714|to raise, increase
+715|increase
+716|to recover, relax
+717|recovery, rest
+718|to remind; (sich) to remember
+719|memory
+720|to catch a cold
+721|having a cold
+722|cold (illness)
+723|to recognise
+724|to explain
+725|explanation; declaration
+726|to enquire
+727|to allow
+728|permission
+729|to experience
+730|experience (event)
+731|to take care of, get done
+732|to relieve, make easier ("erleichtert" = relieved)
+733|discount, reduction
+734|to feed, nourish
+735|nutrition, diet
+736|serious
+737|seriously
+738|harvest
+739|to open (a business)
+740|opening
+741|to reach
+742|exhausted
+743|to be frightened
+744|to frighten someone
+745|to replace; to reimburse
+746|replacement
+747|only (not until); first
+748|first
+749|to create, draw up
+750|grown-up, adult
+751|adult
+752|to expect
+753|to tell
+754|story, narrative
+755|to bring up, raise (children)
+756|upbringing, education
+757|it
+758|to eat
+759|food, meal
+760|vinegar
+761|floor, storey
+762|about, approximately
+763|something
+764|possibly
+765|eternal(ly), forever
+766|expert
+767|export
+768|extra, separately
+769|extreme(ly)
+770|factory
+771|compartment, shelf; (school) subject
+772|expert, specialist
+773|expert, specialist (female)
+774|experts, specialists
+775|ability
+776|to drive, go (by vehicle)
+777|ferry
+778|road, carriageway
+779|driver
+780|ticket
+781|timetable
+782|bicycle
+783|vehicle
+784|fair
+785|factor
+786|case
+787|to fall
+788|due
+789|in case, if
+790|wrong
+791|family
+792|marital status
+793|to catch
+794|imagination
+795|fantastic
+796|colour
+797|coloured
+798|minced meat (A)
+799|carnival
+800|carnival (CH)
+801|to catch, seize; to grasp
+802|almost
+803|lazy; rotten
+804|to laze around
+805|armchair (A, CH)
+806|to be missing; to be absent
+807|mistake
+808|to celebrate
+809|celebration, party
+810|end of the working day
+811|public holiday
+812|field
+813|window
+814|holidays, vacation
+815|holiday- (prefix)
+816|remote control
+817|to watch TV
+818|television (broadcasting)
+819|TV set
+820|finished, ready
+821|firm(ly), fixed
+822|festival, party
+823|hard drive
+824|to hold on (to)
+825|to determine, fix; (sich) to commit oneself
+826|to arrest
+827|to set, fix (a date)
+828|to be certain, be fixed
+829|to find out, establish
+830|fatty
+831|fat
+832|damp, moist
+833|fire
+834|lighter
+835|fire brigade
+836|fever
+837|figure
+838|film
+839|to finance
+840|financial(ly)
+841|to find
+842|finger
+843|company
+844|flat
+845|area, surface
+846|bottle
+847|stain, spot
+848|meat
+849|butcher (A)
+850|X
+851|hard-working, diligent
+852|flexible
+853|to fly
+854|to flee
+855|escape, flight
+856|to flow
+857|fluent(ly)
+858|flea market
+859|flute
+860|flight
+861|airport
+862|aeroplane
+863|corridor, hallway
+864|river
+865|liquid
+866|to follow
+867|consequence; episode
+868|following
+869|to demand
+870|demand
+871|to promote, support
+872|support, funding
+873|form, shape
+874|form (document)
+875|research
+876|further training
+877|progress
+878|to continue
+879|continuation; sequel
+880|forum
+881|X
+882|to photograph
+883|photo
+884|camera
+885|photographer
+886|photography
+887|to ask
+888|question
+889|woman; wife; Mrs
+890|cheeky
+891|free; vacant
+892|outdoors
+893|freedom
+894|free time, leisure
+895|voluntary, voluntarily
+896|foreign, strange
+897|to eat (animals)
+898|to be pleased, be happy
+899|joy
+900|friend; boyfriend
+901|friendly
+902|friendship
+903|peace
+904|to be cold, freeze
+905|fresh
+906|hairdresser
+907|hairdresser (female)
+908|hairstyle
+909|deadline, time limit
+910|glad
+911|cheerful
+912|fruit
+913|fruit (CH)
+914|early
+915|earlier, in the past; former
+916|to have breakfast
+917|breakfast
+918|to feel
+919|to lead, guide
+920|driving licence (CH)
+921|driving licence
+922|guided tour; leadership
+923|lost property office
+924|to work, function
+925|for
+926|terrible
+927|to fear, be afraid
+928|foot
+929|football
+930|pedestrian
+931|pedestrian zone
+932|to feed (animals)
+933|fork
+934|gallery
+935|corridor; course (of a meal); gait
+936|whole; quite
+937|done, cooked; ("gar nicht" = not at all)
+938|garage
+939|to guarantee
+940|guarantee, warranty
+941|cloakroom
+942|garden
+943|gas
+944|guest
+945|inn, restaurant (A)
+946|restaurant, pub
+947|building
+948|to give
+949|pastries, biscuits
+950|area, region
+951|mountains
+952|to be born
+953|to use, make use of
+954|instructions for use
+955|fee
+956|birth
+957|birthday
+958|poem
+959|patience
+960|honoured ("Sehr geehrte..." = Dear...)
+961|suitable
+962|danger
+963|dangerous
+964|to please, like ("es gefällt mir" = I like it)
+965|to put up with something
+966|X
+967|prison
+968|feeling
+969|against
+970|opponent
+971|area, region
+972|contrast, opposite
+973|object, item
+974|opposite
+975|opposite, across from
+976|salary
+977|secret
+978|secret (adj.)
+979|to go, walk
+980|to belong
+981|pavement, sidewalk
+982|money
+983|cash machine, ATM
+984|purse, wallet (A)
+985|opportunity, occasion
+986|to succeed, manage
+987|to be valid
+988|together, joint(ly)
+989|community
+990|vegetables
+991|cosy
+992|exact(ly)
+993|just the same, just as
+994|to approve, permit
+995|generation
+996|to enjoy
+997|enough
+998|to be enough, suffice
+999|luggage
+1000|straight; just (now)
+1001|straight ahead
+1002|device, appliance
+1003|fair, just
+1004|court; dish (food)
+1005|small, low, slight
+1006|gladly, with pleasure
+1007|whole, total
+1008|shop; business
+1009|to happen
+1010|present, gift
+1011|history; story
+1012|divorced
+1013|dishes, crockery
+1014|sex, gender
+1015|taste; flavour
+1016|speed
+1017|speed limit
+1018|siblings
+1019|society; company
+1020|law
+1021|face
+1022|curious, eager to see
+1023|conversation
+1024|yesterday
+1025|healthy
+1026|health
+1027|drink, beverage
+1028|violence, force
+1029|trade union
+1030|weight
+1031|to win
+1032|prize; profit
+1033|conscience
+1034|thunderstorm
+1035|to get used to
+1036|habit
+1037|used to, accustomed
+1038|usual(ly)
+1039|spice
+1040|to water, pour
+1041|poison
+1042|poisonous
+1043|guitar
+1044|ice cream (CH); glass
+1045|slippery; smooth
+1046|to believe, think
+1047|immediately, in a moment; same
+1048|likewise, same to you
+1049|having equal rights
+1050|at the same time
+1051|track, platform
+1052|luck; happiness
+1053|happy; lucky
+1054|congratulations
+1055|gold
+1056|golf
+1057|god
+1058|graphic, chart
+1059|grass
+1060|to congratulate
+1061|congratulations
+1062|free (of charge)
+1063|to grab, reach for ("Greifen Sie zu!" = help yourself!)
+1064|border
+1065|to grill, barbecue
+1066|to grill, barbecue (CH)
+1067|grill, barbecue
+1068|flu
+1069|big, tall
+1070|grand- (prefix: Großeltern = grandparents)
+1071|size; height
+1072|to found
+1073|reason
+1074|thorough(ly)
+1075|plot of land
+1076|group
+1077|to greet
+1078|greeting, regards
+1079|to look
+1080|valid
+1081|cheap, good value; favourable
+1082|good
+1083|gymnastics, exercises
+1084|hair
+1085|to have
+1086|minced meat
+1087|port, harbour
+1088|to hail
+1089|chicken
+1090|half
+1091|half board
+1092|part-time (half days)
+1093|half
+1094|hall
+1095|indoor swimming pool
+1096|hello
+1097|neck, throat
+1098|just, simply (filler: "das ist halt so")
+1099|durable, keeps (food)
+1100|to hold; to stop
+1101|stop
+1102|stop (bus/tram)
+1103|hammer
+1104|hand
+1105|tradesman, craftsman
+1106|to act; to trade, deal in
+1107|trade, commerce
+1108|dealer, trader
+1109|mobile phone
+1110|to hang
+1111|hard
+1112|to hate
+1113|ugly
+1114|frequent(ly)
+1115|capital city
+1116|main train station
+1117|house
+1118|homework
+1119|housewife / househusband
+1120|household
+1121|caretaker, janitor
+1122|X
+1123|skin
+1124|to lift
+1125|exercise book
+1126|home(wards)
+1127|home (institution)
+1128|homeland
+1129|secret(ly)
+1130|homesickness
+1131|to marry
+1132|hot
+1133|to be called
+1134|to heat
+1135|heating
+1136|hero
+1137|heroine
+1138|to help
+1139|help
+1140|bright, light
+1141|shirt
+1142|chicken (A)
+1143|here (towards speaker); ago
+1144|to find out
+1145|challenge
+1146|stove, cooker
+1147|in (towards speaker) ("Herein!" = come in!)
+1148|origin
+1149|gentleman; Mr
+1150|to produce, manufacture
+1151|manufacturer
+1152|to download
+1153|to shut down (computer); to drive down
+1154|X
+1155|heart
+1156|warm, cordial ("Herzlichen Glückwunsch!")
+1157|today
+1158|today's, current
+1159|here
+1160|(to) here
+1161|sky; heaven
+1162|to throw down
+1163|at the back, behind
+1164|behind
+1165|to leave (behind)
+1166|afterwards
+1167|to point out, refer to
+1168|hint, clue
+1169|historical
+1170|heat
+1171|hobby
+1172|high
+1173|height
+1174|to upload
+1175|at most
+1176|wedding
+1177|yard, courtyard
+1178|farm
+1179|to hope
+1180|hopefully
+1181|hope
+1182|polite
+1183|to fetch, get
+1184|wood
+1185|honey
+1186|to hear, listen
+1187|listener; (phone) receiver
+1188|listener
+1189|trousers
+1190|hotel
+1191|pretty
+1192|hill
+1193|humour
+1194|hunger
+1195|hungry
+1196|to honk, hoot
+1197|to cough
+1198|cough
+1199|hat

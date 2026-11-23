@@ -1,0 +1,26 @@
+Category,German Word,English Translation,Example Sentence (German)
+Transition,zuerst,first,Zuerst mache ich meine Hausaufgaben.
+Transition,dann,then,Dann esse ich etwas.
+Transition,schließlich,finally,Schließlich gehe ich ins Bett.
+Transition,danach,after that,Danach lese ich ein Buch.
+Transition,zum Beispiel,for example,Zum Beispiel mag ich Pizza und Pasta.
+Verb,erzählen,to tell,Ich erzähle dir eine Geschichte.
+Verb,beschreiben,to describe,Kannst du das Bild beschreiben?
+Verb,mögen,to like,Ich mag dieses Lied sehr.
+Verb,planen,to plan,Ich plane meine Woche am Sonntag.
+Verb,gefallen,to please,Der Film hat mir gefallen.
+Noun,die Geschichte,the story,Die Geschichte war spannend.
+Noun,der Plan,the plan,Der Plan ist gut.
+Noun,der Prozess,the process,Der Prozess dauert zwei Tage.
+Noun,die Leute,the people,Die Leute sind nett.
+Noun,das Beispiel,the example,Das ist ein gutes Beispiel.
+Adjective,ungefähr,approximately,Das kostet ungefähr zehn Euro.
+Adjective,gleich,immediately / same,Wir treffen uns gleich.
+Adjective,langsam,slowly,Bitte sprich langsam.
+Adverb,oft,often,Ich gehe oft ins Kino.
+Adverb,wieder,again,Ich sehe den Film wieder.
+Question/Utility,wie,how,Wie funktioniert das?
+Question/Utility,ob,if / whether,"Ich weiß nicht, ob er kommt."
+Question/Utility,warum,why,Warum bist du traurig?
+Connector,aber,but,"Ich bin müde, aber ich arbeite weiter."
+Connector,deshalb,therefore,"Ich habe Hunger, deshalb esse ich jetzt."

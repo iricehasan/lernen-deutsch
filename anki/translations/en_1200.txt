@@ -1,0 +1,600 @@
+1200|hut, cabin
+1201|ideal
+1202|idea
+1203|illegal
+1204|snack; snack bar
+1205|always
+1206|import
+1207|in
+1208|by (doing) (conj.)
+1209|individual(ly)
+1210|industry
+1211|infection
+1212|to inform
+1213|information
+1214|engineer
+1215|contents
+1216|including
+1217|inside
+1218|inner, internal
+1219|within, inside of
+1220|island
+1221|advertisement (classified)
+1222|in total, altogether
+1223|to install, set up
+1224|institute
+1225|instrument
+1226|to integrate
+1227|integration
+1228|intelligent
+1229|intelligence
+1230|intensive(ly)
+1231|intensive course
+1232|to interest; (sich) to be interested
+1233|interesting
+1234|interest
+1235|interested
+1236|intercultural
+1237|international
+1238|interview
+1239|meanwhile; by now
+1240|some, any (irgendein = some/any one)
+1241|sometime
+1242|to be mistaken
+1243|yes
+1244|jacket
+1245|snack (A)
+1246|each; ever; "je nach" = depending on
+1247|the more ... the more
+1248|jeans
+1249|every, each
+1250|at any time
+1251|every time
+1252|however
+1253|ever
+1254|someone
+1255|now
+1256|each time, in each case
+1257|journalist
+1258|journalist (female)
+1259|youth
+1260|young person (male)
+1261|young person (female)
+1262|youth hostel
+1263|young
+1264|boy
+1265|cable
+1266|booth, cabin
+1267|coffee
+1268|café (A)
+1269|cocoa, hot chocolate
+1270|calendar
+1271|cold
+1272|cold(ness)
+1273|camera
+1274|to fight
+1275|fight, struggle
+1276|channel; canal
+1277|candidate
+1278|pot, jug
+1279|canteen
+1280|chapter
+1281|broken
+1282|to break (intransitive)
+1283|to break (something)
+1284|carnival
+1285|carrot
+1286|career
+1287|card; ticket; map; menu
+1288|chip card, smart card
+1289|ticket
+1290|potato
+1291|cheese
+1292|till, checkout
+1293|cassette
+1294|crate
+1295|X
+1296|cupboard (A, CH)
+1297|catalogue
+1298|catastrophe
+1299|to buy
+1300|purchase
+1301|buyer
+1302|hardly, barely
+1303|no, not a
+1304|cellar, basement
+1305|waiter / waitress
+1306|to know (be familiar with)
+1307|to get to know, meet
+1308|knowledge, skills
+1309|number plate; characteristic
+1310|candle
+1311|chain, necklace
+1312|child
+1313|nursery school
+1314|childhood
+1315|cinema
+1316|kiosk
+1317|church
+1318|box, crate
+1319|cushion, pillow
+1320|to complain; to sue
+1321|to work out, go well
+1322|clear; of course
+1323|to clarify, resolve
+1324|great, brilliant (colloquial)
+1325|class
+1326|class test
+1327|piano
+1328|to stick, glue
+1329|dress
+1330|clothing
+1331|small
+1332|to climb
+1333|to click
+1334|click
+1335|climate
+1336|air conditioning
+1337|to ring (a bell)
+1338|doorbell
+1339|to sound
+1340|clinic, hospital
+1341|to knock
+1342|dumpling
+1343|clever, wise
+1344|scarce, tight; barely
+1345|pub, bar
+1346|knee
+1347|bone
+1348|dumpling
+1349|button
+1350|to cook; to boil
+1351|cook, chef
+1352|cook (female)
+1353|suitcase
+1354|colleague (male)
+1355|colleague (female)
+1356|strange, funny
+1357|to come
+1358|communication
+1359|complete(ly)
+1360|complicated
+1361|compromise
+1362|conference
+1363|jam (CH)
+1364|conflict
+1365|king
+1366|competition, competitors
+1367|can, to be able to
+1368|X
+1369|consulate
+1370|to consume
+1371|consumption
+1372|contact
+1373|account
+1374|current account
+1375|to check, inspect
+1376|check, inspection; control
+1377|to concentrate
+1378|concert
+1379|head
+1380|to copy
+1381|copy
+1382|copier
+1383|body
+1384|physical(ly)
+1385|correct
+1386|corridor
+1387|to correct
+1388|to cost
+1389|costs
+1390|free of charge
+1391|to taste, try (A)
+1392|costume
+1393|strength, power
+1394|strong, powerful
+1395|motor vehicle
+1396|power station
+1397|ill, sick
+1398|sick person (male)
+1399|sick person (female)
+1400|hospital
+1401|health insurance company
+1402|male nurse
+1403|nurse
+1404|ambulance
+1405|illness, disease
+1406|creative
+1407|loan, credit
+1408|credit card
+1409|circle; district
+1410|cross
+1411|crossroads, intersection
+1412|war
+1413|to get (colloquial)
+1414|criminal police
+1415|crime thriller
+1416|crisis
+1417|to criticise
+1418|criticism
+1419|critical
+1420|kitchen
+1421|cake
+1422|ballpoint pen
+1423|biro, pen (colloquial)
+1424|cool
+1425|fridge
+1426|culture
+1427|cultural
+1428|to take care of, look after
+1429|customer (male)
+1430|customer (female)
+1431|to give notice, quit; to cancel (a contract)
+1432|notice (of termination); cancellation
+1433|art
+1434|artist
+1435|artificial
+1436|plastic
+1437|course
+1438|course leader, instructor
+1439|curve, bend
+1440|short
+1441|recently
+1442|to kiss
+1443|kiss
+1444|coast
+1445|envelope (A)
+1446|X
+1447|to smile
+1448|to laugh
+1449|shop
+1450|location; situation
+1451|storeroom, warehouse; camp
+1452|lamp
+1453|country; countryside
+1454|agriculture
+1455|landscape
+1456|to land
+1457|landing
+1458|long
+1459|length
+1460|(for) a long time
+1461|slow(ly)
+1462|long ago, for a long time
+1463|boring
+1464|to be bored
+1465|boredom
+1466|noise
+1467|to let; to leave
+1468|lorry, truck
+1469|to run; to walk
+1470|(disk) drive
+1471|mood
+1472|loud
+1473|loudspeaker
+1474|tasty, delicious
+1475|to live
+1476|life
+1477|CV, résumé
+1478|groceries, food
+1479|leather
+1480|single, unmarried
+1481|empty
+1482|to lay, put (flat)
+1483|apprenticeship
+1484|apprenticeship position
+1485|teacher
+1486|apprentice
+1487|easy; light
+1488|to be sorry ("es tut mir leid" = I'm sorry)
+1489|to suffer
+1490|unfortunately
+1491|to lend; to borrow
+1492|quiet
+1493|to achieve; (sich) to afford
+1494|performance, achievement
+1495|to lead, manage
+1496|leader, manager
+1497|management; line (phone/pipe)
+1498|ladder
+1499|to learn
+1500|learner
+1501|to read
+1502|reader
+1503|last
+1504|people
+1505|encyclopedia
+1506|light
+1507|to love
+1508|dear, kind, sweet
+1509|love
+1510|favourite- (prefix)
+1511|song
+1512|to deliver
+1513|delivery
+1514|to lie, be (located)
+1515|lift, elevator
+1516|lemonade, soft drink
+1517|line; route
+1518|(on the) left
+1519|left (adj.)
+1520|lip
+1521|list
+1522|literature
+1523|to praise
+1524|hole
+1525|loose, relaxed
+1526|spoon
+1527|wage
+1528|to be worth it
+1529|pub, restaurant
+1530|off, away; "Los!" = go!; "Was ist los?" = what's wrong?
+1531|to set off, drive off
+1532|to delete; to extinguish
+1533|to solve
+1534|solution
+1535|air
+1536|to lie (tell lies)
+1537|lie
+1538|desire ("Lust haben" = to feel like)
+1539|funny
+1540|to do, make
+1541|girl
+1542|magazine
+1543|stomach
+1544|lean, thin
+1545|meal
+1546|reminder (payment), warning
+1547|once; just (softener: "Komm mal her")
+1548|time (occasion)
+1549|to paint
+1550|painter
+1551|one, you (general)
+1552|some, many a
+1553|sometimes
+1554|lack, shortage
+1555|man; husband
+1556|male
+1557|team
+1558|coat
+1559|folder
+1560|fairy tale
+1561|margarine
+1562|apricot (A)
+1563|brand; stamp
+1564|to mark
+1565|market
+1566|jam
+1567|machine
+1568|material
+1569|school-leaving exam (A, CH)
+1570|wall (outdoor)
+1571|maximum, at most
+1572|mechanic
+1573|media
+1574|medicine, medication
+1575|medicine
+1576|sea
+1577|flour
+1578|more
+1579|several
+1580|majority
+1581|VAT
+1582|to think, mean
+1583|for all I care; fine by me
+1584|opinion
+1585|most
+1586|mostly, usually
+1587|master craftsman; champion
+1588|to report; (sich) to get in touch, answer
+1589|report, news item
+1590|amount, quantity; crowd
+1591|university canteen
+1592|human, person
+1593|human
+1594|set menu
+1595|to notice; (sich) to remember
+1596|strange, odd
+1597|trade fair; mass (church)
+1598|to measure
+1599|knife
+1600|metal
+1601|method
+1602|metropolis
+1603|butcher
+1604|to rent
+1605|rent
+1606|tenant
+1607|migrant (male)
+1608|migrant (female)
+1609|migration
+1610|milk
+1611|mild
+1612|minority
+1613|at least
+1614|mineral water
+1615|minimal
+1616|to mix
+1617|mis- (prefix: Misserfolg = failure)
+1618|with
+1619|employee, co-worker
+1620|with each other
+1621|member
+1622|middle
+1623|to inform, notify
+1624|remedy; means
+1625|in the middle of
+1626|middle (adj.)
+1627|meanwhile, by now
+1628|furniture
+1629|furnished
+1630|would like
+1631|mobile
+1632|voicemail
+1633|mobility
+1634|mobile phone
+1635|fashion
+1636|model
+1637|modern
+1638|to like
+1639|possible
+1640|possibility
+1641|as ... as possible
+1642|carrot
+1643|moment
+1644|moon
+1645|monitor
+1646|engine, motor
+1647|motorbike
+1648|tired
+1649|effort, trouble
+1650|rubbish, garbage
+1651|refuse collection
+1652|wheelie bin, dustbin
+1653|mouth
+1654|oral(ly), verbal
+1655|coin
+1656|museum
+1657|music
+1658|musical
+1659|musician
+1660|muscle
+1661|muesli
+1662|must, to have to
+1663|X
+1664|courage
+1665|brave
+1666|mother
+1667|after; to (cities, countries)
+1668|neighbour (male)
+1669|neighbour (female)
+1670|after (conj.)
+1671|to think (about), reflect
+1672|demand
+1673|afterwards, later
+1674|tutoring
+1675|message; news
+1676|to look up
+1677|dessert
+1678|X
+1679|next
+1680|disadvantage
+1681|offspring; new generation
+1682|needle
+1683|nail
+1684|near
+1685|vicinity, nearness
+1686|to sew
+1687|to approach
+1688|food(stuff)
+1689|name
+1690|surname
+1691|first name
+1692|namely, you see (gives a reason)
+1693|nose
+1694|wet
+1695|national
+1696|nature
+1697|natural; of course
+1698|fog
+1699|foggy
+1700|next to, beside
+1701|next door
+1702|on the side, in addition
+1703|nephew
+1704|negative
+1705|to take
+1706|no
+1707|to call, name
+1708|nerve
+1709|nervous
+1710|nice
+1711|net; network
+1712|network
+1713|new
+1714|news (piece of)
+1715|curious, nosy
+1716|recently
+1717|not
+1718|niece
+1719|non-smoker
+1720|nothing
+1721|never
+1722|low
+1723|nobody
+1724|nowhere
+1725|nowhere
+1726|still; yet
+1727|once more, again
+1728|once again
+1729|normal
+1730|normally
+1731|emergency room
+1732|emergency exit
+1733|emergency
+1734|emergency call
+1735|grade, mark; note (music)
+1736|to note down
+1737|necessary
+1738|note
+1739|necessary
+1740|noodle, pasta
+1741|number
+1742|now; well
+1743|only
+1744|to use, make use of
+1745|to be of use, help
+1746|useful
+1747|whether, if
+1748|above, upstairs
+1749|upper
+1750|waiter
+1751|whipped cream (A)
+1752|fruit
+1753|although
+1754|or
+1755|oven
+1756|open
+1757|public
+1758|the public
+1759|to publish
+1760|apparently, evidently
+1761|official
+1762|to open
+1763|often / more often
+1764|without
+1765|ear
+1766|eco-, organic (prefix)
+1767|oil
+1768|grandma
+1769|uncle
+1770|grandpa
+1771|opera
+1772|to operate (surgery)
+1773|operation
+1774|victim
+1775|optimistic
+1776|orange
+1777|orchestra
+1778|tidy, neat; proper
+1779|doctor's surgery (A)
+1780|consulting hours (A)
+1781|to sort, arrange
+1782|folder, binder
+1783|order, tidiness ("in Ordnung" = OK)
+1784|to organise
+1785|organisation
+1786|original
+1787|original (adj.)
+1788|place
+1789|suburb
+1790|place of residence
+1791|ocean
+1792|a few, a couple
+1793|pair, couple
+1794|to pack
+1795|parcel, package
+1796|breakdown
+1797|paper
+1798|tomato (A)
+1799|parallel

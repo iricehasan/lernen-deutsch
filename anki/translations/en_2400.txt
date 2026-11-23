@@ -1,0 +1,558 @@
+2400|participant
+2401|to phone, make a call
+2402|telephone
+2403|plate
+2404|temperature
+2405|speed, pace
+2406|tennis
+2407|carpet, rug
+2408|appointment; date
+2409|diary, appointment book
+2410|terrace, patio
+2411|to test
+2412|test
+2413|expensive
+2414|text
+2415|theatre
+2416|topic, subject
+2417|theoretical(ly)
+2418|theory
+2419|therapy
+2420|ticket
+2421|deep
+2422|animal
+2423|pet
+2424|zoo, wildlife park
+2425|tip, hint
+2426|to type; to tap
+2427|table
+2428|title
+2429|daughter
+2430|death
+2431|deadly, fatal
+2432|toilet
+2433|tolerant
+2434|great, fantastic
+2435|tomato
+2436|pot, saucepan
+2437|gate; goal
+2438|gateau, layer cake
+2439|dead
+2440|dead person (male)
+2441|dead person (female)
+2442|totally, completely
+2443|tourism
+2444|tourist (male)
+2445|tourist (female)
+2446|tradition
+2447|traditional
+2448|to carry; to wear
+2449|to train, practise
+2450|coach, trainer
+2451|training
+2452|tram (CH)
+2453|tear
+2454|to transport
+2455|transport
+2456|to dream
+2457|dream
+2458|dream- (prefix: Traumberuf = dream job)
+2459|sad
+2460|to meet; to hit
+2461|meeting point
+2462|to do (sport); to drive, push
+2463|to separate; (sich) to split up
+2464|separation
+2465|to live apart, be separated
+2466|stairs, staircase
+2467|stairwell
+2468|to step; to kick
+2469|loyal, faithful
+2470|to drink
+2471|tip (money)
+2472|dry
+2473|to dry
+2474|drops (medicine)
+2475|pavement (CH)
+2476|despite, in spite of
+2477|nevertheless, anyway
+2478|cloth; scarf
+2479|to do
+2480|door
+2481|tower
+2482|bag (paper/plastic)
+2483|guy; type
+2484|typical(ly)
+2485|underground, subway
+2486|to practise
+2487|exercise, practice
+2488|over, above; about
+2489|everywhere
+2490|to run over
+2491|at all; in general
+2492|to overtake
+2493|to think about, consider
+2494|the day after tomorrow
+2495|to stay overnight
+2496|overnight stay
+2497|to take over
+2498|to check, verify
+2499|to cross
+2500|to surprise
+2501|surprise
+2502|to persuade
+2503|headline, heading
+2504|to translate
+2505|translator
+2506|translation
+2507|overtime (hour)
+2508|to exaggerate, overdo
+2509|to transfer (money)
+2510|bank transfer
+2511|to convince; (sich) to make sure
+2512|conviction
+2513|usual, customary
+2514|left over, remaining
+2515|by the way
+2516|bank, shore
+2517|clock, watch; o'clock
+2518|at (time); around
+2519|to hug
+2520|in order to
+2521|to turn around
+2522|survey, poll
+2523|surroundings, area
+2524|to deal with, handle
+2525|the other way round, vice versa
+2526|diversion, detour
+2527|all the (more)
+2528|free; in vain
+2529|to change (trains, etc.)
+2530|to exchange (goods)
+2531|exchange (of goods)
+2532|environment
+2533|environmental protection
+2534|pollution
+2535|to move (house)
+2536|move (house); parade
+2537|to get changed
+2538|X
+2539|un- (prefix: unfreundlich = unfriendly)
+2540|absolutely, definitely
+2541|and
+2542|accident
+2543|approximately, about
+2544|unusual
+2545|unbelievable, incredible
+2546|accident, disaster; misfortune
+2547|eerie, creepy; incredibly (colloquial)
+2548|uniform
+2549|university
+2550|below, downstairs
+2551|under, below; among
+2552|lower
+2553|to interrupt
+2554|to entertain; (sich) to talk, chat
+2555|entertainment; conversation
+2556|accommodation
+2557|documents, papers
+2558|to refrain from
+2559|to do (an activity), undertake
+2560|entrepreneur, business owner
+2561|to teach
+2562|lessons, classes
+2563|prohibited
+2564|to distinguish, tell apart
+2565|difference
+2566|different, varying
+2567|to sign
+2568|signature
+2569|to underline
+2570|to support
+2571|support
+2572|to examine, investigate
+2573|examination, investigation
+2574|on the way, out and about
+2575|certificate, document
+2576|holiday, vacation
+2577|cause
+2578|to cause
+2579|originally
+2580|judgement; verdict
+2581|vase
+2582|father
+2583|vegetarian
+2584|bike (CH)
+2585|to arrange to meet
+2586|having a date / an arrangement
+2587|appointment, date (to meet)
+2588|to say goodbye
+2589|farewell, goodbye
+2590|to change
+2591|event
+2592|responsible
+2593|responsibility
+2594|to improve; to correct
+2595|to forbid, ban
+2596|ban, prohibition
+2597|forbidden
+2598|to connect; to bandage
+2599|connection
+2600|to use, consume
+2601|criminal
+2602|to burn
+2603|to spend (time)
+2604|suspicion
+2605|suspicious
+2606|to earn; to deserve
+2607|club, association
+2608|to agree, arrange
+2609|the past
+2610|in vain
+2611|to forget
+2612|to compare
+2613|comparison
+2614|to enjoy oneself, have fun
+2615|pleasure
+2616|cheerful, merry
+2617|to enlarge
+2618|to arrest
+2619|to behave
+2620|behaviour
+2621|relationship; ratio
+2622|married
+2623|to prevent
+2624|to sell
+2625|salesperson, shop assistant
+2626|traffic
+2627|means of transport
+2628|publisher
+2629|to demand, ask for
+2630|to extend, renew
+2631|to leave
+2632|to get lost
+2633|to injure, hurt
+2634|injury
+2635|to fall in love
+2636|in love
+2637|to lose
+2638|loser
+2639|loss
+2640|to avoid
+2641|to rent out, let
+2642|landlord / landlady
+2643|renting out, letting
+2644|to miss (someone)
+2645|agency; switchboard; mediation
+2646|to suspect, presume
+2647|presumably
+2648|sensible, reasonable
+2649|to pack, wrap
+2650|to miss (a train, chance)
+2651|to cater for, feed
+2652|obliged
+2653|to betray; to give away (a secret)
+2654|to go away (on a trip)
+2655|crazy
+2656|meeting, assembly
+2657|to miss, fail to do
+2658|to postpone
+2659|different, various
+2660|to prescribe
+2661|to disappear
+2662|to insure; to assure
+2663|health insurance card
+2664|X
+2665|insurance
+2666|delay
+2667|to promise
+2668|understandable
+2669|understanding
+2670|to hide
+2671|to understand; (sich) to get on
+2672|to try
+2673|attempt; experiment
+2674|to distribute, hand out
+2675|contract
+2676|to trust
+2677|trust
+2678|to represent; to stand in for
+2679|representative
+2680|stand-in, replacement
+2681|to sentence, condemn
+2682|administration
+2683|related
+2684|relative (male)
+2685|relative (female)
+2686|to mix up, confuse
+2687|to use
+2688|to forgive
+2689|excuse me, sorry
+2690|to do without, give up
+2691|video
+2692|a lot, much / many
+2693|maybe, perhaps
+2694|quarter (district)
+2695|virtual
+2696|virus
+2697|business card
+2698|visa
+2699|vitamin
+2700|full
+2701|full-time
+2702|volleyball
+2703|completely, totally
+2704|from; of
+2705|from each other
+2706|in front of; ago; before
+2707|above all, especially
+2708|ahead
+2709|prerequisite, condition
+2710|expected(ly), probably
+2711|past, over
+2712|to prepare
+2713|preparation
+2714|front (adj.)
+2715|right of way
+2716|the day before yesterday
+2717|to plan, intend
+2718|before(hand)
+2719|a moment ago, earlier
+2720|to happen, occur
+2721|for the time being, temporary
+2722|to read aloud
+2723|at the front
+2724|suburb
+2725|to suggest
+2726|suggestion
+2727|regulation, rule
+2728|caution; "Vorsicht!" = careful!
+2729|careful
+2730|to introduce; (sich etwas) to imagine
+2731|performance, showing; idea
+2732|job interview
+2733|advantage
+2734|lecture, talk
+2735|dialling code
+2736|forwards
+2737|reproach, accusation
+2738|horizontal
+2739|awake
+2740|to grow
+2741|car; carriage
+2742|to choose; to vote; to dial
+2743|choice; election
+2744|insane, crazy; incredibly
+2745|true
+2746|truth
+2747|during; while
+2748|probably
+2749|forest, woods
+2750|wall
+2751|to hike
+2752|hike
+2753|when (question)
+2754|goods, product
+2755|warm
+2756|warmth
+2757|to warn
+2758|to wait
+2759|why
+2760|what
+2761|what kind of
+2762|to wash
+2763|laundry
+2764|detergent
+2765|water
+2766|to change, exchange
+2767|to wake (someone) up
+2768|alarm clock
+2769|neither ... nor
+2770|way, path
+2771|away, gone
+2772|because of
+2773|to hurt
+2774|female
+2775|soft
+2776|to refuse
+2777|because
+2778|wine
+2779|to cry
+2780|-wise, -ly (suffix: teilweise = partly)
+2781|far
+2782|further; to continue (weiter-)
+2783|further education/training
+2784|which
+2785|world
+2786|worldwide
+2787|to turn (around)
+2788|little / few
+2789|at least
+2790|if; when(ever)
+2791|who
+2792|advertising
+2793|to become
+2794|to throw
+2795|factory, plant; work (of art)
+2796|workshop, garage
+2797|tool(s)
+2798|worth
+2799|value
+2800|worthless
+2801|valuable
+2802|why
+2803|competition, contest
+2804|to bet
+2805|weather
+2806|weather report
+2807|weather forecast
+2808|important
+2809|to contradict
+2810|how; like, as
+2811|again
+2812|to repeat
+2813|repetition; revision
+2814|to weigh
+2815|wild
+2816|meadow
+2817|why
+2818|how much / how many
+2819|welcome
+2820|wind
+2821|windy
+2822|to wave
+2823|to have an effect, work; to seem
+2824|effect
+2825|really
+2826|reality
+2827|landlord (of a pub)
+2828|landlady (of a pub)
+2829|economy
+2830|to know (a fact)
+2831|knowledge
+2832|science
+2833|scientist
+2834|joke
+2835|where
+2836|where from
+2837|where to
+2838|well; probably
+2839|to live (reside)
+2840|place of residence
+2841|place of residence
+2842|flat, apartment
+2843|living room
+2844|cloud
+2845|cloudy
+2846|wool
+2847|to want
+2848|X
+2849|X
+2850|about what
+2851|about what ("Worum geht es?" = what's it about?)
+2852|word (individual words)
+2853|word (words in context)
+2854|dictionary
+2855|wound
+2856|miracle, wonder
+2857|wonderful
+2858|beautiful
+2859|to be surprised, wonder
+2860|to wish
+2861|wish
+2862|sausage
+2863|furious
+2864|number
+2865|number, quantity
+2866|numerous
+2867|to pay
+2868|payment
+2869|to count
+2870|tooth
+2871|toothpaste
+2872|pliers
+2873|sign, signal
+2874|traffic sign
+2875|to draw
+2876|drawing
+2877|to show
+2878|line (of text)
+2879|time
+2880|point in time, moment
+2881|at the moment
+2882|magazine
+2883|newspaper
+2884|tent
+2885|to camp
+2886|central
+2887|centre
+2888|to destroy
+2889|certificate
+2890|slip of paper, note
+2891|stuff
+2892|witness (male)
+2893|witness (female)
+2894|certificate; school report
+2895|to pull; to move (house)
+2896|goal, aim
+2897|quite, fairly
+2898|cigarette
+2899|room
+2900|interest (on money)
+2901|circus
+2902|lemon
+2903|marital status (CH)
+2904|customs; duty
+2905|zone
+2906|zoo
+2907|to; too
+2908|to prepare (food)
+2909|sugar
+2910|first, at first
+2911|coincidence, chance
+2912|by chance
+2913|satisfied, content
+2914|access
+2915|accessible
+2916|train
+2917|to close; to approach
+2918|home
+2919|to listen
+2920|listener
+2921|future
+2922|in future
+2923|last, finally
+2924|to close, shut
+2925|at least
+2926|first (of all)
+2927|matches (A)
+2928|match (for lighting)
+2929|to increase; to put on weight
+2930|to cope, manage
+2931|back
+2932|at the moment
+2933|to accept (an invitation), agree
+2934|together
+2935|cooperation
+2936|to summarise
+2937|connection, context
+2938|additional(ly)
+2939|to watch
+2940|spectator, viewer
+2941|supplement, surcharge
+2942|to be closed
+2943|X
+2944|condition, state
+2945|responsible, in charge
+2946|to agree
+2947|consent, approval
+2948|ingredients
+2949|reliable
+2950|snack (CH)
+2951|admittedly ("zwar ... aber" = it's true ... but)
+2952|purpose, point
+2953|to doubt
+2954|doubt
+2955|onion
+2956|to force
+2957|between

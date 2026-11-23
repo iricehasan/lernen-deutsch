@@ -1,0 +1,600 @@
+0|from (a time/place); off
+1|to turn (off a road)
+2|illustration, figure
+3|adventure
+4|but
+5|to depart, leave
+6|departure
+7|waste, rubbish
+8|rubbish bin
+9|exhaust fumes
+10|to hand in, drop off
+11|to depend (on)
+12|dependent
+13|to withdraw (money)
+14|to pick up, collect
+15|to copy (in writing)
+16|school-leaving exam (≈ A-levels)
+17|to reject, decline
+18|to agree, arrange
+19|to take off; to lose weight
+20|to subscribe to
+21|subscription
+22|to cancel, call off
+23|graduation, qualification; conclusion
+24|section, paragraph
+25|sender
+26|intention
+27|absolutely
+28|to vote
+29|department
+30|caretaker (CH)
+31|caretaker (CH, female)
+32|downwards
+33|to wash up (dishes)
+34|absent
+35|to pay attention (to)
+36|Attention! Watch out!
+37|address
+38|similar
+39|idea, notion ("keine Ahnung" = no idea)
+40|campaign, action
+41|active
+42|activity
+43|current, up to date
+44|to accept
+45|alarm
+46|alcohol
+47|all
+48|alone
+49|very (superlative prefix: allerbeste = very best)
+50|however, though
+51|general
+52|everyday life
+53|everyday, ordinary
+54|alphabet
+55|when (past); as; than
+56|as if
+57|so, well; therefore
+58|old
+59|age
+60|retirement home
+61|retirement home
+62|alternative (adj.)
+63|alternative
+64|traffic light
+65|office, authority
+66|to have fun, enjoy oneself
+67|at, on
+68|to analyse
+69|to offer
+70|provider
+71|offer
+72|other
+73|on the other hand
+74|to change
+75|change
+76|differently
+77|to recognise (officially)
+78|to begin, start
+79|beginning
+80|at first
+81|to state, give (information); to show off
+82|information, detail
+83|relative (male)
+84|relative (female)
+85|pleasant
+86|fear
+87|anxious, timid
+88|to wear, have on
+89|to click (on)
+90|to arrive
+91|arrival
+92|to announce
+93|system, equipment; facility
+94|instructions
+95|to register, sign up
+96|registration
+97|to accept; to assume
+98|advertisement (classified)
+99|form of address
+100|to call (phone)
+101|phone call
+102|answering machine
+103|announcement
+104|to buy, acquire
+105|to connect
+106|connection
+107|to fasten one's seatbelt
+108|to look at
+109|to speak to, address
+110|claim, entitlement
+111|to switch on; to employ
+112|employee (male)
+113|employee (female)
+114|to make an effort
+115|tiring, exhausting
+116|application (form)
+117|to apply, use
+118|present (in attendance)
+119|to answer
+120|answer
+121|lawyer
+122|lawyer (female)
+123|to report (to police); to display
+124|advertisement; police report
+125|to put on (clothes), get dressed
+126|suit
+127|apartment
+128|apple
+129|pharmacy
+130|device, machine
+131|appetite
+132|apricot
+133|to work
+134|work, job
+135|worker
+136|work permit
+137|unemployed
+138|unemployment
+139|workplace, job
+140|job, position
+141|architect
+142|architect (female)
+143|to annoy; (sich) to be annoyed
+144|trouble, annoyance
+145|annoying
+146|poor
+147|arm
+148|kind, type; manner
+149|article
+150|doctor
+151|doctor (female)
+152|asylum
+153|to breathe
+154|breath
+155|also, too
+156|on
+157|stay
+158|to stand out, be noticed
+159|to ask, request, call on
+160|request, demand
+161|to perform
+162|task, exercise
+163|to give up; to post (a parcel)
+164|to stop, hold up; (sich) to stay
+165|to pick up; to keep
+166|to stop
+167|to charge (a battery)
+168|to dissolve
+169|attentive
+170|to accept, admit; to record
+171|recording; admission
+172|to pay attention, watch out
+173|to tidy up
+174|to upset; (sich) to get worked up
+175|to get up
+176|order, assignment ("im Auftrag" = on behalf of)
+177|to perform, appear
+178|performance, appearance
+179|to wake up
+180|upwards
+181|lift, elevator
+182|eye
+183|moment
+184|out of, from
+185|vocational training, education
+186|trained, qualified
+187|to print out
+188|expression (phrase)
+189|printout
+190|apart
+191|exit (for vehicles)
+192|to be cancelled
+193|excursion, trip
+194|to fill in (a form)
+195|expense; edition
+196|exit
+197|to spend (money)
+198|to go out
+199|excellent
+200|temporary worker
+201|information
+202|abroad
+203|foreigner
+204|foreign
+205|to switch off; to arrange; to matter
+206|exception
+207|to be enough
+208|sufficient
+209|to pass on (a message)
+210|to rest
+211|to rule out, exclude
+212|exclusively
+213|to look (appear)
+214|outside
+215|outside (of)
+216|external(ly)
+217|except
+218|besides, in addition
+219|view; prospect
+220|to pronounce
+221|pronunciation
+222|to exhibit; to issue (a document)
+223|exhibition
+224|to choose, pick out
+225|to select
+226|selection, choice
+227|ID card
+228|to take off (clothes); to move out
+229|car
+230|motorway
+231|vending machine
+232|automatic
+233|author
+234|author (female)
+235|to bake
+236|bakery
+237|to bathe, have a bath
+238|bath; bathroom
+239|bathtub
+240|railway, train
+241|suburban train
+242|tram
+243|underground, subway
+244|train station
+245|platform
+246|soon
+247|balcony
+248|ball
+249|ballet
+250|banana
+251|bench
+252|bank
+253|ATM (A, CH)
+254|bank sort code
+255|debit card (A)
+256|X
+257|bar
+258|in cash
+259|cash
+260|beard
+261|basketball
+262|to do crafts, make
+263|battery
+264|belly, stomach
+265|to build
+266|building; construction
+267|construction site
+268|farmer
+269|tree
+270|to observe, take note of
+271|civil servant
+272|civil servant (female)
+273|to apply for
+274|to answer
+275|to thank
+276|need, demand
+277|to mean
+278|meaning
+279|to serve; to operate
+280|operating instructions
+281|condition
+282|to hurry
+283|to finish, end
+284|to be located
+285|exempt
+286|satisfactory
+287|to meet (by chance)
+288|enthusiastic, thrilled
+289|to begin
+290|beginning
+291|to accompany
+292|limited
+293|to justify, give reasons for
+294|reason, justification
+295|to greet, welcome
+296|to keep
+297|to treat
+298|to claim
+299|to obstruct, hinder
+300|disabled
+301|authority (government)
+302|at, near; with
+303|both
+304|leg
+305|almost
+306|example
+307|to bite
+308|contribution; fee
+309|known, well-known
+310|acquaintance (male)
+311|acquaintance (female)
+312|to announce
+313|to get, receive
+314|receipt
+315|to insult
+316|popular
+317|to notice
+318|to try hard, make an effort
+319|to need, require
+320|to use
+321|petrol
+322|to observe, watch
+323|comfortable
+324|to advise
+325|advice, counselling
+326|to calculate
+327|area, field
+328|ready, willing
+329|already
+330|mountain
+331|to report
+332|report
+333|profession, job
+334|professional(ly), for work
+335|employed, working
+336|to calm (down)
+337|famous
+338|to damage
+339|to employ; (sich) to deal with
+340|employment, occupation
+341|notification, official answer
+342|to let someone know
+343|to let someone know
+344|to decide
+345|to limit, restrict
+346|to describe
+347|description
+348|to complain
+349|to occupy ("besetzt" = taken)
+350|to visit, view (sights)
+351|to own
+352|special
+353|especially, particularly
+354|to get, obtain
+355|to discuss
+356|meeting
+357|recovery ("Gute Besserung!" = get well soon)
+358|to confirm
+359|confirmation
+360|to pass (an exam); to consist (of)
+361|to order
+362|certainly; certain, particular
+363|to punish
+364|to visit
+365|visit; visitors
+366|to take part, participate
+367|amount
+368|to look after, care for
+369|carer, supervisor
+370|care, supervision
+371|company, business
+372|works council
+373|works council member (female)
+374|to cheat, deceive
+375|drunk
+376|bed
+377|population
+378|before (conj.)
+379|to move
+380|movement, exercise
+381|to prove
+382|proof, evidence
+383|to apply (for a job)
+384|application
+385|resident, inhabitant
+386|to pay
+387|relationship
+388|library
+389|beer
+390|to offer
+391|picture
+392|screen
+393|ticket (CH)
+394|cheap
+395|biology
+396|organic
+397|organic, biological
+398|pear
+399|until; as far as
+400|so far, until now
+401|a bit, a little
+402|to ask (for), request
+403|request
+404|please
+405|bitter
+406|pale
+407|leaf; sheet (of paper)
+408|to stay
+409|pencil
+410|view; glance
+411|blind
+412|to flash (lightning)
+413|lightning
+414|blond
+415|only, just
+416|to bloom
+417|flower
+418|blouse
+419|to bleed
+420|blood
+421|floor; ground
+422|sheet (form); arc
+423|bean
+424|boat
+425|embassy; message
+426|angry; evil
+427|to fry, roast
+428|roast (meat)
+429|to need
+430|to break
+431|wide
+432|width
+433|to brake
+434|brake
+435|to burn
+436|letter
+437|letterbox
+438|stamp
+439|postman, letter carrier
+440|X
+441|envelope
+442|wallet
+443|glasses
+444|to bring
+445|brochure
+446|bread
+447|bread roll
+448|bread roll (CH)
+449|bridge
+450|brother
+451|chest, breast
+452|boy (A, CH)
+453|book
+454|bookshop
+455|to book
+456|to spell
+457|letter (of the alphabet)
+458|can, tin
+459|buffet
+460|stage
+461|colourful
+462|castle
+463|citizen
+464|office
+465|brush
+466|toothbrush
+467|bus
+468|butter
+469|café
+470|cafeteria
+471|chance
+472|boss
+473|boss (female)
+474|chic, stylish
+475|hairdresser (CH)
+476|hairdresser (CH, female)
+477|couch
+478|cream
+479|cousin (male)
+480|cousin (female)
+481|envelope (CH)
+482|there; then; since
+483|with it; at the same time
+484|for it
+485|roof
+486|against it; on the other hand
+487|therefore, that's why
+488|there (direction); "bis dahin" = until then
+489|back then, at that time
+490|lady
+491|so that; with it
+492|after that
+493|next to it
+494|to thank
+495|thanks
+496|grateful
+497|thank you
+498|then
+499|to represent, portray
+500|portrayal, presentation
+501|that (conj.)
+502|file
+503|date
+504|data
+505|to last, take (time)
+506|duration
+507|constant(ly)
+508|ceiling; blanket
+509|to decorate
+510|to think
+511|thought
+512|monument
+513|because; then (in questions)
+514|the same
+515|therefore, that's why
+516|dessert
+517|therefore, for that reason
+518|detail
+519|clear(ly)
+520|diet
+521|dialect
+522|dialogue
+523|tight, sealed; dense
+524|fat, thick
+525|thief
+526|to serve
+527|service, duty, shift
+528|this
+529|this time
+530|digital
+531|thing
+532|diploma
+533|direct(ly)
+534|director, headmaster
+535|director (female)
+536|disco, nightclub
+537|to discuss
+538|discussion
+539|distance
+540|but, yet; yes (contradicting a negative)
+541|doctor
+542|doctor (female)
+543|document
+544|to thunder
+545|thunder
+546|double; twice
+547|double- (prefix)
+548|village
+549|there
+550|there (direction)
+551|can, tin
+552|outside
+553|dirt
+554|to turn
+555|urgent(ly)
+556|inside
+557|drug
+558|chemist's, drugstore
+559|over there
+560|to print
+561|printer
+562|to press, push
+563|pressure; print
+564|stupid
+565|dark
+566|thin
+567|through
+568|mixed up, in a mess
+569|announcement (over loudspeaker)
+570|average
+571|on average
+572|may, to be allowed to
+573|X
+574|thirst
+575|thirsty
+576|to shower
+577|shower
+578|to address as "du"
+579|just (now); simply
+580|likewise, also
+581|likewise, just as
+582|health insurance card (A)
+583|real, genuine
+584|debit card
+585|corner
+586|corner (A)
+587|square, angular
+588|all the same ("Das ist mir egal" = I don't care)
+589|marriage
+590|wife
+591|husband
+592|married couple
+593|rather; earlier
+594|honest
+595|egg
+596|own
+597|actually
+598|to be suitable
+599|to hurry; to be urgent

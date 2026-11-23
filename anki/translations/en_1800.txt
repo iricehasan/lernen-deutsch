@@ -1,0 +1,600 @@
+1800|perfume
+1801|park
+1802|to park
+1803|to park (CH)
+1804|X
+1805|partner
+1806|party
+1807|passport
+1808|passenger (male)
+1809|passenger (female)
+1810|to fit; to suit
+1811|to happen
+1812|passive
+1813|patient (male)
+1814|patient (female)
+1815|all-inclusive; flat-rate
+1816|break, pause
+1817|bad luck
+1818|embarrassing
+1819|guesthouse, B&B
+1820|pension (A, CH)
+1821|to retire / be retired (A)
+1822|to be retired (CH)
+1823|X
+1824|X
+1825|X
+1826|pensioner (A)
+1827|X
+1828|by, via, per
+1829|perfect
+1830|platform (CH)
+1831|person
+1832|personal(ly), in person
+1833|personal details
+1834|marital status
+1835|staff, personnel
+1836|pan, pot
+1837|pepper
+1838|to plant
+1839|plant
+1840|plaster, band-aid
+1841|plum
+1842|to care for, look after
+1843|carer, nurse
+1844|duty, obligation
+1845|imagination
+1846|picnic
+1847|pill
+1848|mushroom
+1849|pizza
+1850|poster
+1851|to plan
+1852|plan
+1853|planning
+1854|plastic
+1855|space, room; seat; square
+1856|suddenly
+1857|politics
+1858|politician
+1859|political
+1860|police
+1861|police officer (male)
+1862|police officer (female)
+1863|chips, French fries
+1864|popular
+1865|wallet, purse
+1866|portion
+1867|positive
+1868|post office; mail
+1869|postcode
+1870|postman (CH)
+1871|chicken (CH)
+1872|internship
+1873|intern (male)
+1874|intern (female)
+1875|practical; practically
+1876|to present
+1877|presentation
+1878|practice
+1879|doctor's practice, surgery
+1880|price; prize
+1881|good value, inexpensive
+1882|press
+1883|great, excellent
+1884|private
+1885|per
+1886|to try (out)
+1887|to taste, try (food)
+1888|problem
+1889|to produce
+1890|product
+1891|production
+1892|professor (male)
+1893|professor (female)
+1894|pro, professional
+1895|professional athlete
+1896|programme; schedule
+1897|project
+1898|brochure, leaflet
+1899|cheers!
+1900|to protest
+1901|protest
+1902|trial (court); process
+1903|to check, examine
+1904|exam, test
+1905|audience
+1906|jumper, sweater
+1907|point; dot; full stop ("Punkt 8 Uhr" = 8 sharp)
+1908|punctual, on time
+1909|doll
+1910|to clean
+1911|qualification
+1912|quality
+1913|neighbourhood (CH)
+1914|across, diagonally
+1915|receipt
+1916|quiz
+1917|discount
+1918|wheel
+1919|bike
+1920|cyclist
+1921|radio
+1922|cream (CH)
+1923|edge, margin
+1924|lawn
+1925|to shave
+1926|to advise; to guess
+1927|advice
+1928|piece of advice
+1929|puzzle, riddle
+1930|town hall
+1931|to smoke
+1932|smoker
+1933|room, space
+1934|up (colloquial)
+1935|out (colloquial)
+1936|to react
+1937|reaction
+1938|to realise, carry out
+1939|reality
+1940|realistic
+1941|research, investigation
+1942|to calculate; to count on
+1943|computer; calculator
+1944|bill, invoice
+1945|law; right
+1946|legal
+1947|convenient, all right; quite
+1948|(on the) right
+1949|right (adj.)
+1950|in good time
+1951|to talk
+1952|speech
+1953|to reduce
+1954|presentation, paper
+1955|reform
+1956|shelf
+1957|rule
+1958|regular(ly)
+1959|to regulate, settle
+1960|to rain
+1961|rain
+1962|region
+1963|regional
+1964|rich
+1965|to be enough; to hand, pass
+1966|ripe
+1967|tyre
+1968|row; series
+1969|order, sequence
+1970|pure
+1971|to clean
+1972|cleaning; dry cleaner's
+1973|rice
+1974|to travel
+1975|journey, trip
+1976|travel agency
+1977|to ride (a horse)
+1978|advertising
+1979|record
+1980|relative(ly)
+1981|religion
+1982|to run
+1983|pension
+1984|to retire / be retired
+1985|pensioner
+1986|X
+1987|to repair
+1988|repair
+1989|report (feature)
+1990|reporter
+1991|to reserve
+1992|reservation
+1993|respect
+1994|rest, remainder
+1995|restaurant
+1996|to save, rescue
+1997|prescription; recipe
+1998|reception (desk)
+1999|judge
+2000|right, correct; really
+2001|direction
+2002|to smell
+2003|huge
+2004|cow, cattle; beef
+2005|ring
+2006|risk
+2007|skirt
+2008|raw
+2009|oven (A)
+2010|role; roll
+2011|novel
+2012|rose
+2013|rucksack
+2014|return journey
+2015|return
+2016|backwards
+2017|back
+2018|consideration
+2019|carrot (CH)
+2020|to call, shout
+2021|phone number
+2022|quiet, peace, calm
+2023|quiet, calm
+2024|round
+2025|round; lap
+2026|tour, round trip
+2027|hall
+2028|thing; matter
+2029|sack, bag
+2030|juice
+2031|to say
+2032|cream
+2033|season
+2034|salad; lettuce
+2035|ointment
+2036|salon
+2037|salt
+2038|salty
+2039|to collect
+2040|all, entire
+2041|sand
+2042|singer
+2043|full (after eating)
+2044|sentence
+2045|clean
+2046|sour; annoyed
+2047|box, packet
+2048|what a pity, shame
+2049|to harm, damage
+2050|damage
+2051|harmful
+2052|to manage, achieve
+2053|to switch
+2054|switch; counter (ticket)
+2055|sharp; spicy, hot
+2056|shadow, shade
+2057|to estimate, guess; to value
+2058|to look
+2059|to watch
+2060|shop window
+2061|actor / actress
+2062|slice; pane (glass)
+2063|to get divorced
+2064|divorced
+2065|divorce
+2066|banknote; certificate
+2067|to shine; to seem
+2068|to give (as a present)
+2069|scissors
+2070|to send
+2071|to push
+2072|crooked, askew
+2073|to shoot
+2074|ship
+2075|sign
+2076|to scold, complain
+2077|ham
+2078|umbrella
+2079|to sleep
+2080|sleep
+2081|to hit, beat
+2082|whipped cream (A)
+2083|snake; queue
+2084|slim
+2085|bad
+2086|to close
+2087|finally, after all
+2088|bad, serious
+2089|lock; castle
+2090|end ("Schluss machen" = finish, break up)
+2091|key
+2092|narrow
+2093|to taste
+2094|pain
+2095|painkiller
+2096|to put on make-up
+2097|jewellery
+2098|dirt
+2099|dirty
+2100|to pollute, dirty
+2101|snow
+2102|to snow
+2103|to cut
+2104|fast, quick
+2105|schnitzel, escalope
+2106|runny nose, cold
+2107|chocolate
+2108|already
+2109|beautiful, nice
+2110|cupboard, wardrobe
+2111|fright, scare
+2112|terrible
+2113|to write
+2114|to write down
+2115|letter (official)
+2116|to scream, shout
+2117|handwriting; script
+2118|written, in writing
+2119|writer, author
+2120|step
+2121|shoe
+2122|guilt, fault
+2123|to blame, at fault
+2124|debts
+2125|owing; guilty
+2126|school
+2127|class test (A)
+2128|pupil, student
+2129|shoulder
+2130|bowl
+2131|to shake
+2132|to protect
+2133|protection
+2134|weak
+2135|mushroom (A)
+2136|pregnant
+2137|pregnancy
+2138|to be silent
+2139|heavy; difficult
+2140|sister
+2141|-in-law (prefix: Schwiegereltern = parents-in-law)
+2142|difficult
+2143|difficulty
+2144|to swim
+2145|swimming pool
+2146|to sweat
+2147|lake
+2148|sea
+2149|North Sea / Baltic Sea
+2150|to see
+2151|sight, place of interest
+2152|very
+2153|soap
+2154|to be
+2155|since
+2156|since then
+2157|side; page
+2158|secretary (male)
+2159|secretary (female)
+2160|same
+2161|oneself (myself, etc.); even
+2162|oneself (colloquial)
+2163|self-employed; independent
+2164|of course, naturally
+2165|rare(ly), seldom
+2166|strange, odd
+2167|semester
+2168|seminar
+2169|bread roll (A)
+2170|to send; to broadcast
+2171|(broadcasting) station, channel
+2172|broadcast, programme; shipment
+2173|senior citizens
+2174|vertical
+2175|series
+2176|service
+2177|waiter (CH)
+2178|X
+2179|armchair
+2180|chair (A)
+2181|to sit down; to put, place
+2182|safe; sure, certain
+2183|safety, security
+2184|to secure; to save (data)
+2185|visible
+2186|to win
+2187|victory
+2188|winner
+2189|to address as "Sie"
+2190|to sing
+2191|to sink
+2192|sense, meaning, point
+2193|pointless
+2194|sensible, meaningful
+2195|situation
+2196|to sit
+2197|seat
+2198|ski
+2199|so, like this
+2200|as soon as
+2201|sock
+2202|so that (result)
+2203|sofa
+2204|immediately
+2205|so-called
+2206|even
+2207|son
+2208|as long as
+2209|such
+2210|should, to be supposed to
+2211|X
+2212|special offer
+2213|but (rather) — after a negative
+2214|sun
+2215|sunny
+2216|otherwise; else
+2217|to take care of; to ensure
+2218|worry
+2219|sauce
+2220|souvenir
+2221|as far as
+2222|so much / as much as
+2223|anyway
+2224|both ... and
+2225|social
+2226|social worker
+2227|exciting
+2228|to save (money)
+2229|thrifty, economical
+2230|fun
+2231|late
+2232|at the latest
+2233|to go for a walk
+2234|walk
+2235|to save, store (data)
+2236|food, dish (Vorspeise = starter)
+2237|menu
+2238|dining car
+2239|specialist (male)
+2240|specialist (female)
+2241|special, specific
+2242|mirror
+2243|to play
+2244|game; match
+2245|player
+2246|playground
+2247|toy
+2248|pointed, sharp
+2249|sport
+2250|type of sport
+2251|athlete, sportsperson
+2252|sporty, athletic
+2253|language
+2254|foreign language
+2255|mother tongue
+2256|second language
+2257|to speak
+2258|consulting hours, office hours
+2259|to jump
+2260|injection; syringe
+2261|to rinse; to wash up
+2262|lane; track, trace
+2263|to feel, sense
+2264|stadium
+2265|city, town
+2266|municipal
+2267|city map
+2268|to come from, originate
+2269|constant(ly)
+2270|point of view
+2271|star (celebrity)
+2272|strong
+2273|to start; to take off
+2274|start; take-off
+2275|station, stop
+2276|statistics
+2277|statistical
+2278|instead of
+2279|to take place
+2280|traffic jam
+2281|dust
+2282|to vacuum
+2283|to sting, prick
+2284|to put, stick; to be stuck
+2285|socket, power point
+2286|plug
+2287|to stand
+2288|to stop, stand still
+2289|to steal
+2290|to rise, climb
+2291|steep
+2292|stone
+2293|place, spot; job, position
+2294|to put, place (upright)
+2295|stamp, postmark
+2296|to die
+2297|star
+2298|tax
+2299|steward
+2300|stewardess, flight attendant
+2301|pen, pencil
+2302|style
+2303|stylistic(ally)
+2304|quiet, still
+2305|boot
+2306|stairs (A)
+2307|stairwell (A)
+2308|voice; vote
+2309|to be correct; to vote
+2310|mood, atmosphere
+2311|to stink
+2312|floor, storey
+2313|floor, storey
+2314|fabric, material; substance
+2315|proud
+2316|to stop
+2317|to disturb
+2318|disturbance; fault
+2319|to bump, knock
+2320|punishment, fine
+2321|punishable, illegal
+2322|parking ticket
+2323|beach
+2324|street, road
+2325|tram
+2326|route, distance, stretch
+2327|match (for lighting)
+2328|to strike, go on strike
+2329|strike
+2330|to argue, quarrel
+2331|argument, quarrel
+2332|strict
+2333|stress
+2334|electricity; current
+2335|stocking, sock
+2336|piece
+2337|study (research)
+2338|to study (at university)
+2339|student (male)
+2340|student (female)
+2341|student (male)
+2342|student (female)
+2343|studies (university degree)
+2344|studio
+2345|step; level
+2346|chair
+2347|mute, silent
+2348|hour; lesson
+2349|storm
+2350|to fall; to rush
+2351|to look for, search
+2352|addiction
+2353|addicted
+2354|addictive substance
+2355|sum, amount
+2356|super, great
+2357|supermarket
+2358|soup
+2359|sweet; cute
+2360|symbol
+2361|likeable, nice
+2362|system
+2363|scene
+2364|table, chart
+2365|tablet, pill
+2366|board; bar (of chocolate)
+2367|daily routine
+2368|valley
+2369|talent
+2370|to fill up (with fuel)
+2371|petrol station
+2372|aunt
+2373|to dance
+2374|dance
+2375|bag; pocket
+2376|pocket money
+2377|handkerchief, tissue
+2378|cup
+2379|keyboard
+2380|key, button
+2381|deed, act
+2382|culprit, offender
+2383|activity, occupation
+2384|fact
+2385|actually, really
+2386|deaf
+2387|to dive
+2388|to swap, exchange
+2389|technology; technique
+2390|technical
+2391|technology
+2392|tea
+2393|to let tea steep
+2394|to share; to divide
+2395|part (component)
+2396|part (portion)
+2397|part-time
+2398|to take part, participate
+2399|participation
